@@ -6,4 +6,4 @@ Trying to get a node refresher, I know some of these methods are a bit outdated,
 
 Interested in trying out the problems yourself? Check out learn you node at [learnyounode](https://github.com/workshopper/learnyounode) on github.
 
-Or run `npm install -g learnyounode' and get started!
+Or run `npm install -g learnyounode` and get started!
