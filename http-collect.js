@@ -1,6 +1,4 @@
-const { SSL_OP_SSLEAY_080_CLIENT_DH_BUG } = require('constants');
 const http = require('http');
-
 num_data_chars = 0;
 data_string = "";
 
